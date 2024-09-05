@@ -76,6 +76,8 @@ static_json = {
     "Content-Security-Policy": "default-src 'self'",
     "X-Frame-Options": "deny",
     "X-XSS-Protection": "1; mode=block",
+    "X-Content-Type-Options": "nosniff",
+
     
 }
 
